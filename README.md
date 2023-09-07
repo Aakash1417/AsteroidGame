@@ -14,7 +14,7 @@ This game is a fun and challenging way to test your reflexes and hand-eye coordi
 * Try to beat your highscore each time!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is not licensed. [Learn more](LICENSE).
 
 ## Acknowledgments
 We would like to thank the following open-source projects and resources for their contributions to Asteroid Game:
