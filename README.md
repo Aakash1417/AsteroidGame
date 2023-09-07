@@ -16,7 +16,4 @@ This game is a fun and challenging way to test your reflexes and hand-eye coordi
 ## License
 This project is not licensed. [Learn more](LICENSE).
 
-## Acknowledgments
-We would like to thank the following open-source projects and resources for their contributions to Asteroid Game:
-
 Enjoy the game!
